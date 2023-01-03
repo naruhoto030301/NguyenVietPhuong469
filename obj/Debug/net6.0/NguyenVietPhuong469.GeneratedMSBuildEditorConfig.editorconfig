@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Phuong-Project\NguyenVietPhuong469\NguyenVietPhuong469
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/CompanyNVP469/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU5WUDQ2OVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/CompanyNVP469/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU5WUDQ2OVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/CompanyNVP469/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU5WUDQ2OVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/CompanyNVP469/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU5WUDQ2OVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/CompanyNVP469/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueU5WUDQ2OVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Phuong-Project/NguyenVietPhuong469/NguyenVietPhuong469/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
